@@ -1,0 +1,17 @@
+body {
+    font-family: 'Calibri', sans-serif;
+    margin: 0;
+}
+a{
+    color: white;
+}
+.title {
+    font-family: Georgia Pro;
+}
+li{
+    padding: 3px;
+}
+.dates{
+    color: #A6A6A6;
+    font-size: 14px;
+}

@@ -1,0 +1,13 @@
+.small_title {
+    margin-top: 20px;
+}
+.image_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}

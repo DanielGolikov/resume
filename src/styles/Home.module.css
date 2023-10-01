@@ -1,0 +1,19 @@
+/* App.css */
+
+.App {
+    display: flex;
+}
+
+.column {
+    padding: 3vw;
+}
+
+.column1 {
+    flex: 1; /* grow smaller */
+    background-color: #222E7C;
+    color: white;
+}
+
+.column2 {
+    flex: 3; /* grow larger */
+}
